@@ -5,6 +5,13 @@ VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChildContainerControlDesignerSample", "ChildContainerControlDesignerSample\ChildContainerControlDesignerSample.csproj", "{EEDB51D2-4F38-49B6-98E0-1FD7A1C76869}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{F6ED6A34-8818-4A26-8AE9-DB6595DD953B}"
+	ProjectSection(SolutionItems) = preProject
+		..\1.gif = ..\1.gif
+		..\2.gif = ..\2.gif
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
